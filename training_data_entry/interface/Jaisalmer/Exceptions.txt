@@ -1,0 +1,340 @@
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913107-r244414888-Desert_Culture_Centre_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r628646751-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r440805282-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r472004143-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r333435733-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r427830939-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r375050361-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4045539-r530729058-Tanot_Mata_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4045539-r280314969-Tanot_Mata_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8875991-r540988983-Longewala_War_Memorial-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4045539-r306525473-Tanot_Mata_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4045539-r335617508-Tanot_Mata_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913086-r336878463-Pokhran_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d7720402-r643954050-Mandir_Palace-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r638090161-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d7720402-r643954050-Mandir_Palace-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r624363168-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r642335611-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4045539-r565378832-Tanot_Mata_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r501807559-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d7720402-r643954050-Mandir_Palace-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d7720402-r643954050-Mandir_Palace-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r562483678-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r313340355-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r515840770-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r120103000-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r541115773-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r343370497-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4045539-r549641924-Tanot_Mata_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r428454424-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3731783-r338058632-Desert_National_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r353743412-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2357422-r238075180-Kothari_s_Patwaon_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3731783-r438700326-Desert_National_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r500586332-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r565048932-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r340582927-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r432688667-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3731783-r155255453-Desert_National_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r149998635-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d7720402-r643954050-Mandir_Palace-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r252862947-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2156128-r646326986-Gandhi_Chowk_Street-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r244623453-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r298192237-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2156128-r646326986-Gandhi_Chowk_Street-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3731783-r443236735-Desert_National_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2156128-r646326986-Gandhi_Chowk_Street-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r130563674-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2156128-r646326986-Gandhi_Chowk_Street-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r314710992-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r265980646-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r251209805-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3731783-r329188004-Desert_National_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r110165680-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r467265956-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r321409076-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2687225-r146120770-Desert_Thar_Safari-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913352-r458699537-Jain_Temples-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2687225-r146120770-Desert_Thar_Safari-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d1210928-r120223976-The_Thar_Heritage_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d1210928-r176130806-The_Thar_Heritage_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2432393-r651972550-Kuldhara_Abandoned_Village-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913292-r538391195-Baba_Ramdev_Temple-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913352-r250319131-Jain_Temples-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r661269766-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913352-r367607094-Jain_Temples-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3765852-r287583186-Nathmal_Ji_Ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r427826996-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d3913352-r249757756-Jain_Temples-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324830-r148002678-Bada_Bagh-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d5792080-r122076470-Gadsisar_Sagar_Lake-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r307471475-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r305145679-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324830-r466448842-Bada_Bagh-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r661269766-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r565252161-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4035537-r284595020-Akal_Wood_Fossil_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r450968294-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r463647827-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r314732520-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r348094617-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r314329805-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r182823816-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r145358764-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d8599168-r501798957-Jaisalmer_War_Museum-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4035537-r227016198-Akal_Wood_Fossil_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r176131908-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r192407403-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r645474214-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r632705851-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r592458305-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d4035537-r300095825-Akal_Wood_Fossil_Park-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r614594293-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r551437805-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r567434141-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r547512968-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r575058404-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r547154123-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r551452266-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r587972744-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r499306617-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r459104481-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r530722419-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r455787943-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r450980902-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r452552663-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r467996356-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r475994204-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r565208655-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r438836700-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r450246844-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r448530699-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r383816374-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r357062052-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r351348127-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r432376054-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r350549123-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r346557852-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r433416998-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r353741422-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r343068130-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r459717713-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r343746346-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r343268425-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r341619723-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r298328926-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r450221808-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r338414212-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r320033165-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r314721723-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r287574013-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r265174915-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r255708529-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r280381542-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r538308655-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r245303175-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r263557135-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r250936479-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r233874484-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r232675466-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d2162853-r642451674-Salim_Singh_ki_Haveli-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r250116637-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r205535717-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r193657357-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r341915119-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r156056404-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r168284533-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r186133028-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r186186854-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r154453218-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r154254015-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r136483185-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r126076473-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r123723973-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r148905549-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r193072689-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r117216821-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r227020396-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r119489321-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r192921091-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r125882686-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
+Exception caught in SnakeBiting... Aborted. Message : expected string or bytes-like object
+link: https://www.tripadvisor.in/ShowUserReviews-g297667-d324658-r146435950-Jaisalmer_Fort-Jaisalmer_Jaisalmer_District_Rajasthan.html
