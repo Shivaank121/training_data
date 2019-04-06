@@ -7,8 +7,8 @@ class Filter(models.Model):
         ('Adventure & Outdoors', 'Adventure & Outdoors'),
         ('Pilgrimage', 'Pilgrimage'),
         ('Chill & Relax', 'Chill & Relax'),
-        ('Spiritual & Heritage', 'Spiritual & Heritage'),
-        ('Work & Travel', 'Work & Travel'),
+        ('Heritage', 'Heritage'),
+        ('Travel & Learn', 'Travel & Learn'),
         ('Social Tourism (Volunteer & Travel)', 'Social Tourism (Volunteer & Travel)'),
     )
     name = models.CharField(max_length=50,choices=FILTER_CHOICES, unique=True)
