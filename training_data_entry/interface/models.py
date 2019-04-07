@@ -6,11 +6,12 @@ class Filter(models.Model):
     FILTER_CHOICES = (
         ('Adventure & Outdoors', 'Adventure & Outdoors'),
         ('Spiritual', 'Spiritual'),
-        ('Chill & Relax', 'Chill & Relax'),
+        ('Nature & Retreat', 'Nature & Retreat'),
+	('Isolated or Hippie', 'Isolated or Hippie'),
         ('Heritage', 'Heritage'),
         ('Travel & Learn', 'Travel & Learn'),
         ('Social Tourism (Volunteer & Travel)', 'Social Tourism (Volunteer & Travel)'),
-	('Nightlife', 'Nightlife'),
+	('Nightlife & Events', 'Nightlife & Events'),
 	('Shopping', 'Shopping'),
     )
     name = models.CharField(max_length=50,choices=FILTER_CHOICES, unique=True)
