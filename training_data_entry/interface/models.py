@@ -5,11 +5,13 @@ from django.db import models
 class Filter(models.Model):
     FILTER_CHOICES = (
         ('Adventure & Outdoors', 'Adventure & Outdoors'),
-        ('Pilgrimage', 'Pilgrimage'),
+        ('Spiritual', 'Spiritual'),
         ('Chill & Relax', 'Chill & Relax'),
         ('Heritage', 'Heritage'),
         ('Travel & Learn', 'Travel & Learn'),
         ('Social Tourism (Volunteer & Travel)', 'Social Tourism (Volunteer & Travel)'),
+	('Nightlife', 'Nightlife'),
+	('Shopping', 'Shopping'),
     )
     name = models.CharField(max_length=50,choices=FILTER_CHOICES, unique=True)
 
